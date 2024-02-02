@@ -18,13 +18,15 @@ To capture and analyze network traffic using Wireshark, start by identifying the
 
 <h2>Lab walk-through:</h2>
 
+
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Filter 1: <br/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="![image](https://github.com/marcoasmith/Packet-Capturing/assets/155500497/a2f33078-e902-4cda-aebf-3ec3f823a446)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
